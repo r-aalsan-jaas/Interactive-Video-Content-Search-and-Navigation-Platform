@@ -11,34 +11,7 @@ def chunk_texts(
     max_tokens: int = 500,
     encoding_name: str = "cl100k_base",
 ) -> list[str]:
-    """
-    Splits a given string or a list of strings into chunks based on token
-    count.
-
-    This function tokenizes the input texts and splits them into smaller parts ("chunks")
-    ensuring that each chunk has a token count between `min_tokens` and
-    `max_tokens`. It also attempts to break chunks at sensible points such as
-    punctuation marks.
-
-    Arguments:
-        texts: string or list of strings.
-        min_tokens: minimum tokens in a chunk of text.
-        max_tokens: maximum size of a chunk in tokens.
-        encoding_name: name of the encoding from `tiktoken`.
-
-    Example:
-
-    # >>> from pathway.stdlib.ml import chunk_texts
-    # >>> import pathway as pw
-    # >>> t  = pw.debug.table_from_markdown(
-    # ...     '''| text
-    # ... 1| cooltext'''
-    # ... )
-    # >>> t += t.select(chunks = chunk_texts(pw.this.text, min_tokens=1, max_tokens=1))
-    # >>> pw.debug.compute_and_print(t, include_id=False)
-    # text     | chunks
-    # cooltext | ('cool', 'text')
-    """
+    
     import tiktoken
 
     if not isinstance(texts, str):
