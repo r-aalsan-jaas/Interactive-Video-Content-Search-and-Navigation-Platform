@@ -1,6 +1,6 @@
 # Interactive-Video-Content-Search-and-Navigation-Platform
 
-VidQuest is a powerful web application designed to decode the secrets hidden within YouTube videos. With Interactive-Video-Content-Search-and-Navigation-Platform, you can effortlessly uncover insights and gain a deeper understanding of your favorite video content using AI technology. It uses Pathway’s [LLM App features](https://github.com/pathwaycom/llm-app) to build LLM(Large Language Model)-enabled data pipeline in Python and join data from multiple input sources, leverages OpenAI API [Embeddings](https://platform.openai.com/docs/api-reference/embeddings) and [Chat Completion](https://platform.openai.com/docs/api-reference/completions) endpoints to generate AI assistant responses.
+Interactive-Video-Content-Search-and-Navigation-Platform is a powerful web application designed to decode the secrets hidden within YouTube videos. With Interactive-Video-Content-Search-and-Navigation-Platform, you can effortlessly uncover insights and gain a deeper understanding of your favorite video content using AI technology. It uses Pathway’s [LLM App features](https://github.com/pathwaycom/llm-app) to build LLM(Large Language Model)-enabled data pipeline in Python and join data from multiple input sources, leverages OpenAI API [Embeddings](https://platform.openai.com/docs/api-reference/embeddings) and [Chat Completion](https://platform.openai.com/docs/api-reference/completions) endpoints to generate AI assistant responses.
 
 ## Features
 
