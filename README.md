@@ -4,9 +4,9 @@ VidQuest is a powerful web application designed to decode the secrets hidden wit
 
 ## Features
 
-- **Simplify Complexity:** VidQuest harnesses the latest in AI advancements to distill lengthy YouTube videos into concise summaries, making complex content easily digestible.
+- **Simplify Complexity:** Interactive-Video-Content-Search-and-Navigation-Platform harnesses the latest in AI advancements to distill lengthy YouTube videos into concise summaries, making complex content easily digestible.
   
-- **Uncover Insights:** Dive deeper into your videos by asking questions directly related to the content. VidQuest's AI-powered question answering system provides accurate and relevant responses.
+- **Uncover Insights:** Dive deeper into your videos by asking questions directly related to the content. Interactive-Video-Content-Search-and-Navigation-Platform's AI-powered question answering system provides accurate and relevant responses.
   
 - **User-Friendly Interface:** Our intuitive interface ensures seamless navigation, allowing you to effortlessly interact with the app and unlock valuable insights.
 
