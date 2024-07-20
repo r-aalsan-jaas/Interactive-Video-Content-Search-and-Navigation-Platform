@@ -10,7 +10,7 @@ VidQuest is a powerful web application designed to decode the secrets hidden wit
   
 - **User-Friendly Interface:** Our intuitive interface ensures seamless navigation, allowing you to effortlessly interact with the app and unlock valuable insights.
 
-<img width="1467" alt="image" src="https://github.com/r-aalsan-jaas/Interactive-Video-Content-Search-and-Navigation-Platform.git">
+
   
 
 ## Installation
