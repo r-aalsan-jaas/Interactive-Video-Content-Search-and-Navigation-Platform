@@ -16,7 +16,7 @@ VidQuest is a powerful web application designed to decode the secrets hidden wit
 ## Installation
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/vidquest.git
+    git clone https://github.com/r-aalsan-jaas/Interactive-Video-Content-Search-and-Navigation-Platform.git
     ```
     
 2. **Create a conda environment using environment.yml file:**
@@ -53,16 +53,14 @@ VidQuest is a powerful web application designed to decode the secrets hidden wit
     Simply paste the URLs of the YouTube videos you want to explore into the provided text area.
   
 4. **Initiate Summarization:**
-    Click the "Upload" button to kickstart VidQuest's AI engine, summarizing your videos into easily digestible insights.
+    Click the "Upload" button to kickstart Interactive-Video-Content-Search-and-Navigation-Platform's AI engine, summarizing your videos into easily digestible insights.
   
 5. **Ask Questions:**
-    Probe deeper into the video content by asking questions directly within the app. VidQuest's AI is ready to provide accurate and insightful answers.
+    Probe deeper into the video content by asking questions directly within the app. Interactive-Video-Content-Search-and-Navigation-Platform's AI is ready to provide accurate and insightful answers.
 
 ## Contributing
 
-We welcome contributions from the community to enhance VidQuest's capabilities further. Whether it's fixing bugs, adding new features, or improving the user experience, your contributions are valuable. Feel free to open an issue or submit a pull request.
+We welcome contributions from the community to enhance Interactive-Video-Content-Search-and-Navigation-Platform's capabilities further. Whether it's fixing bugs, adding new features, or improving the user experience, your contributions are valuable. Feel free to open an issue or submit a pull request.
 
-## License
 
-VidQuest is licensed under the [MIT License](LICENSE).
 
